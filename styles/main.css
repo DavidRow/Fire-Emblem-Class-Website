@@ -97,9 +97,13 @@ insdie flexbox
 	border: 1px solid black;
 }
 .ImageClass{
-	height: 100%;
 	resize: both;
-	
+	height: 100%;
+}
+.ImagePNGClass{
+	margin-top: 10%;
+	resize: both;
+	height: 70%;
 }
 
 
